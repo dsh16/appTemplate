@@ -1,4 +1,4 @@
-# webinar-front
+# front
 
 ## Build Setup
 
